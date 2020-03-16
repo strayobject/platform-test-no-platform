@@ -1,0 +1,6 @@
+{
+    "name": "strayobject/platform-test-no-platform",
+    "require": {
+        "xydk936/eio-ext-ide-helper": "dev-master"
+    }
+}
